@@ -1,0 +1,7 @@
+# The engine, showcases, demo builder, and tests run on the Python 3
+# standard library alone (DEMO MODE needs nothing installed).
+#
+# Live Pangram scoring only:
+#   pip install pangram-sdk
+#   export PANGRAM_API_KEY=<your key>
+# Then re-run generate_showcase_a.py / generate_showcase_b.py / build_demo.py.

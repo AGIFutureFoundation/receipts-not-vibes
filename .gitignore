@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.env
+PANGRAM_API_KEY

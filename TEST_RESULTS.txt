@@ -1,0 +1,20 @@
+Receipts, Not Vibes — test run, 2026-11-24 18:05 UTC
+Command: python3 tests/test_receipt.py (DEMO MODE — no PANGRAM_API_KEY set)
+
+PASS test_demo_mode_labelled_everywhere
+PASS test_export_rule_present
+PASS test_fractions_sum_and_segments_present
+PASS test_receipts_produced_for_both_samples
+PASS test_showcase_b_gate_blocked_with_receipt
+PASS test_slop_scores_worse_than_real_packet
+PASS test_summary_buckets_partition_passages
+
+7/7 tests passed
+
+Showcase generation:
+packet: mode=demo ai=0.1526 assisted=0.0262 human=0.8213 passages=3
+slop control: mode=demo ai=1.0 assisted=0.0 human=0.0 passages=3
+wrote showcase_a/: one_apply_packet.txt + receipts (JSON + HTML) for packet and slop control
+showcase B receipt: mode=demo ai=0.3409 assisted=0.0818 human=0.5773
+gate state: BLOCKED — awaiting human decision (by design)
+wrote showcase_b/: agent_submission.txt, receipts (JSON + HTML), gate_record.json
