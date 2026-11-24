@@ -1,0 +1,17 @@
+PROGRAMME: Transformative AI Fund (EA Funds (Effective Altruism Funds))
+OFFER: Grants typically $10,000-$150,000, rarely exceeding $300,000; always open, rolling decisions; early-stage, fast, tolerant of failure
+APPLY AT: https://funds.effectivealtruism.org/funds/transformative-ai
+APPLICANT: AGI Future Foundation
+ENTITY: California nonprofit public benefit corporation (SOS entity B20260196664, filed 04/24/2026; federal 501(c)(3) determination pending — not claimed) · STAGE: Early — programmes live, first grants in review · COUNTRY: United States
+WEBSITE: https://www.agifuturefoundation.org
+WHAT WE ARE BUILDING: Consent-first alignment research (Ask Humanity: twenty questions, consent provenance by design), agent infrastructure (SparkHub: NANDA-protocol registry with human merge gates), and Founders One-Apply, a matcher over 528 funding programmes from 483 providers.
+PROVIDER ASKS FOR: Fund selection; Scope confirmation; Coefficient Giving / Open Philanthropy funding status; Name; Organisation; Organisation website; Organisation classification; Email; CEA employment/contract history; Short project description; Project title; Project summary; Project goals; Track record; Public portfolio; Funding breakdown; Amount + currency; Past-year budget; Fallback if unfunded; Additional funding use; LinkedIn/CV; Start/end dates; Location; China/India; Award to individual; Under-18 events; Lobbying; Leadership; Referral permission; Public reporting; Reporting confirmations
+REVIEW CLOCK: Rolling; confirmation says EA Funds will be in touch about progress. No decision date is published.
+SEND LANE: FOUNDER-PORTAL
+PORTAL: https://funds.effectivealtruism.org/funds/transformative-ai
+ACCOUNT NEEDED: Your own account with EA Funds (Effective Altruism Funds)
+YOUR STEP: Your step: create the provider account in your own name and submit under your own attestation.
+
+ESTATE FACTS (verified, human-supplied): $77,425.98 in non-cash programme support secured to date (PostHog $50,000, Algolia $10,000, Sentry $5,000, Cartesia approx. $7,200, Murf $1,510, Exa $1,000, others itemised on the One-Apply page); 93 applications submitted through the pipeline; $0 cash raised. Principal address: 995 Market St, San Francisco, CA 94103. President/CEO: Mike Rice (full-time). Co-founder and lead developer: Russel Vacanti.
+
+PROJECT NARRATIVE (drafted prose — disclosed as such on the attached receipt): Advanced AI systems will be built by whoever shows up early with working infrastructure. We are building the consent layer first: Ask Humanity collects answers to twenty alignment questions only with explicit, revocable consent, and every answer stays the property of the person who gave it. SparkHub lets agents register, publish packages, and hand work to each other, but nothing merges without a human decision. One-Apply exists because small teams waste their scarcest resource — time — on applications they were never eligible for; its matcher checks structured eligibility gates before it recommends anything. The Transformative AI Fund grant would fund the secure Ask Humanity database, the receipt tooling you are reading now, and a public dataset release with consent provenance intact.

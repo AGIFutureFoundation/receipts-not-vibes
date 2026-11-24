@@ -1,0 +1,107 @@
+{
+  "tool": "Receipts, Not Vibes — provenance receipt engine",
+  "version": "0.1.0 (SF Non-Slop Hackathon, 2026-11-24)",
+  "mode": "demo",
+  "mode_label": "DEMO MODE — heuristic scoring, not Pangram",
+  "generated_at": "2026-11-24T18:06:44+00:00",
+  "document_title": "Slop control — a generic AI grant blurb (written for this demo)",
+  "source": "samples/slop_control.txt",
+  "export_rule": "This document may not be exported without this receipt attached.",
+  "summary": {
+    "passage_count": 3,
+    "total_words": 197,
+    "overall_fraction_ai": 1.0,
+    "overall_fraction_ai_assisted": 0.0,
+    "overall_fraction_human": 0.0,
+    "human_authored_facts": {
+      "passage_indices": [],
+      "word_share": 0.0
+    },
+    "ai_drafted_prose": {
+      "passage_indices": [
+        1,
+        2,
+        3
+      ],
+      "word_share": 1.0
+    },
+    "note": "The receipt is a disclosure, not a verdict of quality: it separates human-authored facts from AI-drafted prose so a reader can see the choices, not just the output."
+  },
+  "passages": [
+    {
+      "index": 1,
+      "text": "In today's fast-paced and ever-evolving landscape of artificial intelligence, it is important to note that our revolutionary platform leverages cutting-edge technology to unlock unprecedented synergy across the entire ecosystem. Furthermore, our robust and seamless solution empowers innovators to elevate their workflows, streamline their processes, and foster a vibrant community of world-class builders. Moreover, we utilize state-of-the-art methodologies in order to harness the power of data, ensuring a holistic and transformative journey for every stakeholder involved.",
+      "word_count": 75,
+      "fraction_ai": 1.0,
+      "fraction_ai_assisted": 0.0,
+      "fraction_human": 0.0,
+      "verdict": "ai-generated",
+      "segments": [
+        {
+          "text": "In today's fast-paced and ever-evolving landscape of artificial intelligence, it is important to note that our revolutionary platform leverages cutting-edge technology to unlock unprecedented synergy across the entire ecosystem.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        },
+        {
+          "text": "Furthermore, our robust and seamless solution empowers innovators to elevate their workflows, streamline their processes, and foster a vibrant community of world-class builders.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        },
+        {
+          "text": "Moreover, we utilize state-of-the-art methodologies in order to harness the power of data, ensuring a holistic and transformative journey for every stakeholder involved.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "Our game-changing approach not only delivers best-in-class outcomes but also cultivates meaningful impact at scale. Additionally, our platform seamlessly integrates with existing infrastructures, providing a robust, scalable, and intuitive experience that navigates the landscape of modern innovation with ease. Whether you're a seasoned founder or just beginning your journey, our cutting-edge tools empower you to delve deeper, move faster, and achieve more — together.",
+      "word_count": 64,
+      "fraction_ai": 1.0,
+      "fraction_ai_assisted": 0.0,
+      "fraction_human": 0.0,
+      "verdict": "ai-generated",
+      "segments": [
+        {
+          "text": "Our game-changing approach not only delivers best-in-class outcomes but also cultivates meaningful impact at scale. Additionally, our platform seamlessly integrates with existing infrastructures, providing a robust, scalable, and intuitive experience that navigates the landscape of modern innovation with ease.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        },
+        {
+          "text": "Whether you're a seasoned founder or just beginning your journey, our cutting-edge tools empower you to delve deeper, move faster, and achieve more — together.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "In conclusion, we stand at the forefront of a pivotal moment in history. By leveraging our revolutionary ecosystem, partners can unlock new opportunities, elevate their potential, and foster lasting change across the realm of technology. We are committed to delivering seamless, robust, and world-class solutions that empower the next generation of innovators to thrive in an ever-evolving world.",
+      "word_count": 58,
+      "fraction_ai": 1.0,
+      "fraction_ai_assisted": 0.0,
+      "fraction_human": 0.0,
+      "verdict": "ai-generated",
+      "segments": [
+        {
+          "text": "In conclusion, we stand at the forefront of a pivotal moment in history. By leveraging our revolutionary ecosystem, partners can unlock new opportunities, elevate their potential, and foster lasting change across the realm of technology.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        },
+        {
+          "text": "We are committed to delivering seamless, robust, and world-class solutions that empower the next generation of innovators to thrive in an ever-evolving world.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    }
+  ]
+}
