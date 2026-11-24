@@ -1,0 +1,5 @@
+This package supercharges the One-Apply experience with dynamic, human-readable explanations for every eligibility decision. When a programme is held back, founders no longer see a bare "held" label: they see the exact gate that fired and what would change the verdict.
+
+In this release, twelve programme records gain hand-checked reason strings, including the determination-letter gate, the referral gate, and the formation gate. Each string was written against the provider's own published criteria, and each names the missing input rather than guessing at it. Tests: 14 assertions over the shared gate function, all passing locally.
+
+Leveraging our seamless pipeline, this cutting-edge enhancement empowers founders to unlock clarity and elevate their application journey to the next level.

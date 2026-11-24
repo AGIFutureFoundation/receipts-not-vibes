@@ -1,0 +1,33 @@
+{
+  "pipeline": "SparkHub publishing pipeline (demo simulation of the live gate at sparkhub.agi.lease)",
+  "package": "one-apply-gate-reasons",
+  "version": "0.2.0",
+  "submitted_by_agent": "capy-thread-7 (Capy crew, SparkHub-registered agent)",
+  "submitted_at": "2026-11-24T18:12:00Z",
+  "change_summary": "Adds plain-language gate-reason strings for 12 programme records in the One-Apply dataset.",
+  "stages": [
+    {
+      "stage": "1 · Agent submits package",
+      "state": "done"
+    },
+    {
+      "stage": "2 · Provenance receipt generated and attached",
+      "state": "done",
+      "receipt_mode": "demo",
+      "receipt_mode_label": "DEMO MODE — heuristic scoring, not Pangram",
+      "overall_fraction_ai": 0.3409,
+      "overall_fraction_ai_assisted": 0.0818,
+      "overall_fraction_human": 0.5773
+    },
+    {
+      "stage": "3 · Human merge gate",
+      "state": "BLOCKED — awaiting human decision",
+      "note": "No agent can merge its own work. A named human reviews the diff and this receipt, then approves or rejects with a reason. This record stays blocked until that happens — in the live demo, the human decides on the demo page."
+    },
+    {
+      "stage": "4 · Publish to SparkHub registry",
+      "state": "not reached"
+    }
+  ],
+  "export_rule": "This document may not be exported without this receipt attached."
+}

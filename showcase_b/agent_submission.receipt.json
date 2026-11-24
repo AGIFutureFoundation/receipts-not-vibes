@@ -1,0 +1,89 @@
+{
+  "tool": "Receipts, Not Vibes — provenance receipt engine",
+  "version": "0.1.0 (SF Non-Slop Hackathon, 2026-11-24)",
+  "mode": "demo",
+  "mode_label": "DEMO MODE — heuristic scoring, not Pangram",
+  "generated_at": "2026-11-24T18:06:44+00:00",
+  "document_title": "SparkHub package description — one-apply-gate-reasons v0.2.0",
+  "source": "Agent submission by capy-thread-7 (Capy crew, SparkHub-registered agent)",
+  "export_rule": "This document may not be exported without this receipt attached.",
+  "summary": {
+    "passage_count": 3,
+    "total_words": 115,
+    "overall_fraction_ai": 0.3409,
+    "overall_fraction_ai_assisted": 0.0818,
+    "overall_fraction_human": 0.5773,
+    "human_authored_facts": {
+      "passage_indices": [
+        2
+      ],
+      "word_share": 0.4609
+    },
+    "ai_drafted_prose": {
+      "passage_indices": [
+        3
+      ],
+      "word_share": 0.1826
+    },
+    "note": "The receipt is a disclosure, not a verdict of quality: it separates human-authored facts from AI-drafted prose so a reader can see the choices, not just the output."
+  },
+  "passages": [
+    {
+      "index": 1,
+      "text": "This package supercharges the One-Apply experience with dynamic, human-readable explanations for every eligibility decision. When a programme is held back, founders no longer see a bare \"held\" label: they see the exact gate that fired and what would change the verdict.",
+      "word_count": 41,
+      "fraction_ai": 0.3186,
+      "fraction_ai_assisted": 0.1307,
+      "fraction_human": 0.5507,
+      "verdict": "mixed",
+      "segments": [
+        {
+          "text": "This package supercharges the One-Apply experience with dynamic, human-readable explanations for every eligibility decision. When a programme is held back, founders no longer see a bare \"held\" label: they see the exact gate that fired and what would change the verdict.",
+          "ai_assistance_score": 0.3839,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "In this release, twelve programme records gain hand-checked reason strings, including the determination-letter gate, the referral gate, and the formation gate. Each string was written against the provider's own published criteria, and each names the missing input rather than guessing at it. Tests: 14 assertions over the shared gate function, all passing locally.",
+      "word_count": 53,
+      "fraction_ai": 0.0969,
+      "fraction_ai_assisted": 0.0764,
+      "fraction_human": 0.8267,
+      "verdict": "human-authored",
+      "segments": [
+        {
+          "text": "In this release, twelve programme records gain hand-checked reason strings, including the determination-letter gate, the referral gate, and the formation gate. Each string was written against the provider's own published criteria, and each names the missing input rather than guessing at it.",
+          "ai_assistance_score": 0.5346,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        },
+        {
+          "text": "Tests: 14 assertions over the shared gate function, all passing locally.",
+          "ai_assistance_score": 0.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "Leveraging our seamless pipeline, this cutting-edge enhancement empowers founders to unlock clarity and elevate their application journey to the next level.",
+      "word_count": 21,
+      "fraction_ai": 1.0,
+      "fraction_ai_assisted": 0.0,
+      "fraction_human": 0.0,
+      "verdict": "ai-generated",
+      "segments": [
+        {
+          "text": "Leveraging our seamless pipeline, this cutting-edge enhancement empowers founders to unlock clarity and elevate their application journey to the next level.",
+          "ai_assistance_score": 1.0,
+          "is_humanized": false,
+          "humanizer_score": 0.05
+        }
+      ]
+    }
+  ]
+}
